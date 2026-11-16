@@ -65,7 +65,7 @@ async function main() {
   // ----------------------------------------------------------
   // TODO 3 - insertMany
   // ----------------------------------------------------------
-  // Insert at least 5 books in a single call using insertMany.
+  // Insert at least 5 books in a single call using insertMany..
   // Include a mix: some with a publisher object, some with tags, some with both.
   await books.insertMany([
     {
